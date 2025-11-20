@@ -1,0 +1,14 @@
+vendor/
+node_modules/
+.env
+storage/uploads/*
+!storage/uploads/.gitkeep
+storage/generated/*
+!storage/generated/.gitkeep
+public/assets/images/*
+!public/assets/images/.gitkeep
+public/assets/uploads/*
+!public/assets/uploads/.gitkeep
+.idea/
+.vscode/
+.DS_Store
